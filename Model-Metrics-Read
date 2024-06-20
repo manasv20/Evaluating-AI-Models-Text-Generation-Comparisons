@@ -1,0 +1,8 @@
+This python code will help you evaluate the models with specific metrics, in this case they are :
+1. Grammar Issues
+2. Readability Score
+3. Token Count
+4. Sentence Count
+5. Average Word Length
+
+Also, with the launch of ChatGPT 4o, now you can get OpenAI's API for free for a trial. Keep learning!
